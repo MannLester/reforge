@@ -1,11 +1,11 @@
 # Reforge: Rise of the Seventeen Cities
-  Reforge: Rise of the Seventeen Cities is an RPG game created using the Java language whilst implementing Java Swing modules. It showcases 25 items, 8 pets, 20 bosses, 18 cities, and a compelling storyline. The program allows the user to travel to those 18 cities and learn more about the problem they’re facing, and is equipped with 4 items to beat 3 bosses of each city. After defeating a boss, a loot will be dropped containing resources such as: gold, iron, herb, biscuit, and diamond. This can be used to buy new items or fund programs to help the city progress.
+&nbsp;&nbsp;&nbsp;&nbsp;Reforge: Rise of the Seventeen Cities is an RPG game created using the Java language whilst implementing Java Swing modules. It showcases 25 items, 8 pets, 20 bosses, 18 cities, and a compelling storyline. The program allows the user to travel to those 18 cities and learn more about the problem they’re facing, and is equipped with 4 items to beat 3 bosses of each city. After defeating a boss, a loot will be dropped containing resources such as: gold, iron, herb, biscuit, and diamond. This can be used to buy new items or fund programs to help the city progress.
 
 ## Implementation:
-  The program Reforge: Rise of the Seventeen CIties aims to tackle the SDG4: Quality Education by providing the players with the reason and solutions for different SDG-related problems through the use of an interactive storyline and gameplay. We hope that by making it interactive, the players will see themselves learning while also having fun with our program.
+&nbsp;&nbsp;&nbsp;&nbsp;The program Reforge: Rise of the Seventeen CIties aims to tackle the SDG4: Quality Education by providing the players with the reason and solutions for different SDG-related problems through the use of an interactive storyline and gameplay. We hope that by making it interactive, the players will see themselves learning while also having fun with our program.
 
 ## Installation:
-  Upon downloading the folder, make sure to update the String root that you will find in the classes. Input the path of your asset strictly following this format “C:\\\Users\\\User\\\Reforge2\\\src\\\assets\\\”. Also, here is the link to the database code for database management and connection: [Database link](https://drive.google.com/drive/folders/1qk7TMxKIgGa49Z17NV3NPafWPbDGws5K?fbclid=IwAR1vh5wJOhsJ6cgbxejQaAElp27jh5aEH30C40KDxSey4kNPrDM--QjfryE)
+&nbsp;&nbsp;&nbsp;&nbsp;Upon downloading the folder, make sure to update the String root that you will find in the classes. Input the path of your asset strictly following this format “C:\\\Users\\\User\\\Reforge2\\\src\\\assets\\\”. Also, here is the link to the database code for database management and connection: [Database link](https://drive.google.com/drive/folders/1qk7TMxKIgGa49Z17NV3NPafWPbDGws5K?fbclid=IwAR1vh5wJOhsJ6cgbxejQaAElp27jh5aEH30C40KDxSey4kNPrDM--QjfryE)
 
 <hr>
 
